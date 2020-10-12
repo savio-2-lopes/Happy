@@ -35,8 +35,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Happy" title="#Happy" src="./assets/img_1.png" width="400px">
-  <img alt="Happy" title="#Happy" src="./assets/happy.gif" width="400px">
+  <img alt="Happy" title="#Happy" src="./assets/happy.gif" width="500px">
 </p>
 
 <br>
