@@ -2,10 +2,8 @@
 	🚧  Happy :memo: Em andamento ... 🚀 🚧
 </h4>
 
-<br>
-
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="./assets/img_1.png" width="650px" />
+    <img alt="Happy" title="Happy" src="./assets/img_1.png" width="850px" />
 </h1>
 
 <br>
