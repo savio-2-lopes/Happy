@@ -1,10 +1,12 @@
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="./assets/happy.png" width="250px" />
-</h1>
-
 <h4 align="center"> 
 	🚧  Happy :memo: Em andamento ... 🚀 🚧
 </h4>
+
+<br>
+
+<h1 align="center">
+    <img alt="Happy" title="Happy" src="./assets/img_1.png" width="650px" />
+</h1>
 
 <br>
 
