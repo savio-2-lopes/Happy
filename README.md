@@ -22,7 +22,7 @@
 
 ## 💻 Sobre o projeto
 
-:memo: Happy - é uma plataforma online para encontrar orfanatos e facilitar visitas.
+:memo: Happy - é uma plataforma online para encontrar e facilitar visitas em orfanatos.
 
 Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br).
 
