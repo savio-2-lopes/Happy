@@ -3,7 +3,7 @@
 </h4>
 
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="./assets/img_1.png" width="850px" />
+    <img alt="Happy" title="Happy" src="./assets/img_1.png" width="950px" />
 </h1>
 
 <br>
@@ -11,7 +11,7 @@
 ## :memo: Índice
 
 - [Sobre](#sobre-o-projeto)
-- [Layout](#layout)
+- [Aplicação](#layout)
 - [Como Executar](#executar)
 - [Tecnologias utilizadas](#tecnologias)
 - [Autor](#autor)
@@ -30,7 +30,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <a id="layout"></a>
 
-## 🎨 Layout
+## 🎨 Aplicação
 
 ### Web
 
@@ -38,6 +38,9 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
   <img alt="Happy" title="#Happy" src="./assets/happy.gif" width="700px">
 </p>
 
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Happy" title="#Happy" src="./assets/backend.gif" width="700px">
+</p>
 <br>
 
 <a id="executar"></a>
