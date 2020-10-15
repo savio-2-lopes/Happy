@@ -53,6 +53,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 ### Pré-requisitos
 
+Para rodar o frontend é necessário que o backend esteja rodando<br>
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
@@ -73,7 +74,7 @@ $ cd Happy
 $ cd frontend
 
 # Instale as dependências
-$ yarn add
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
@@ -82,6 +83,30 @@ $ yarn start
 
 ```
 
+<br>
+
+#### 🧭 Rodando o server (Backend)
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/savio-2-lopes/Happy.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Happy
+
+# Vá para a pasta da aplicação Backend
+$ cd backend
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# A aplicação será aberta na porta:3333 - acesse http://localhost:3333
+
+```
 <br>
 
 <a id="tecnologias"></a>
