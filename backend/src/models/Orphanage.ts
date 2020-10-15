@@ -1,39 +1,52 @@
-import { Entity, Column, PrimaryGeneratedColumn, OneToMany, JoinColumn } from 'typeorm';
-import Image from './Image';
+import {
+	Column,
+	Entity,
+	JoinColumn,
+	OneToMany,
+	PrimaryGeneratedColumn,
+} from "typeorm";
 
-@Entity('orphanages')
+import Image from "./Image";
 
-export default class Orphanage{
-    @PrimaryGeneratedColumn('increment')
-    id: number;
+@Entity("orphanages")
+class Orphanage {
+	@PrimaryGeneratedColumn("increment")
+	id: number;
 
-    @Column()
-    name: string;
-    
-    @Column()
-    latitude: number;
-    
-    @Column()
-    logintude: number;
+	@Column()
+	name: string;
 
-    @Column()
-    about: string;
+	@Column()
+	latitude: number;
 
-    @Column()
-    instructions: string;
-    
-    @Column()
-    opening_hours: string;
-    
-    @Column()
-    open_on_weekends: boolean;   
+	@Column()
+	longitude: number;
 
+	@Column()
+	about: string;
 
-    @OneToMany(() => Image, image => image.orphanage, {
-        cascade: ['insert', 'update']
-    })
+	@Column()
+	instructions: string;
 
-    @JoinColumn({ name: 'orphanage_id' })
-    
-    images: Image[];
+	@Column()
+	opening_hours: number;
+
+	@Column()
+	open_on_weekends: boolean;
+
+	@OneToMany(
+		function () {
+			return Image;
+		},
+		function (image) {
+			return image.orphanage;
+		},
+		{
+			cascade: ["insert", "update"],
+		}
+	)
+	@JoinColumn({ name: "orphanage_id" })
+	images: Image[];
 }
+
+export default Orphanage;
