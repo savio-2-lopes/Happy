@@ -1,14 +1,12 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
-
 body {
-    color: #FFF;
-    background: #ebf2f5;
+	color: #fff;
+	background-color: #ebf2f5;
 }
-
-body, input button, textarea {
-    font: 600 18px Nunito, sans-serif;
+body, button, input, textarea {
+	font: 600 18px 'Nunito', sans-serif;
 }
