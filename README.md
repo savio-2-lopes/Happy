@@ -1,6 +1,6 @@
 
 <h3 align="center">
-    <img alt="Happy" title="Happy" src="./assets/logotipo.png" width="300px" />
+    <img alt="Happy" title="Happy" src="./assets/logotipo.png" width="250px" />
 </h3>
 
 <br> 
@@ -65,9 +65,17 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 # 🚀 Como executar o projeto
 
+Este projeto é divido em três partes:
+1. Backend 
+2. Frontend 
+3. Mobile 
+
+💡 Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+
+<br>
+
 ### Pré-requisitos
 
-Para rodar o frontend é necessário que o backend esteja rodando<br>
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
