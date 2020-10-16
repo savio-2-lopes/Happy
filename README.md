@@ -1,27 +1,44 @@
 
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="./assets/img_1.png" width="950px" />
-</h1>
+<h3 align="center">
+    <img alt="Happy" title="Happy" src="./assets/logotipo.png" width="300px" />
+</h3>
 
-<p align="center"> 🚀 <strong>Happy</strong> 🚧
+<br> 
+
+<p align="center"> 🚀 <strong>Happy - 3º NLW</strong> 🚧
  </p>
+ 
 <br>
 
-## :memo: Índice
+<p align="center">
+   <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
+  
+  <a href="https://github.com/savio-2-lopes">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
+  </a>
+ 
+ <a href="https://github.com/savio-2-lopes">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" target="_blank" />
+  </a>
+</p>
+
+<br> 
+
+# :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
-- [Aplicação](#layout)
+- [Layout](#layout)
 - [Como Executar](#executar)
-- [Tecnologias utilizadas](#tecnologias)
+- [Tecnologias](#tecnologias)
 - [Autor](#autor)
 
 <br>
 
 <a id="sobre-o-projeto"></a>
 
-## 💻 Sobre o projeto
+# 💻 Sobre o projeto
 
-:memo: Happy - é uma plataforma online para encontrar e facilitar visitas em orfanatos.
+🚀 **Happy** - é uma plataforma online para encontrar e facilitar visitas em orfanatos.
 
 Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br).
 
@@ -29,9 +46,9 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <a id="layout"></a>
 
-## 🎨 Aplicação
+# 🎨 Layout
 
-### Web
+<br>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Happy" title="#Happy" src="./assets/1.gif" width="700px">
@@ -40,11 +57,12 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Happy" title="#Happy" src="./assets/backend.gif" width="700px">
 </p>
+
 <br>
 
 <a id="executar"></a>
 
-## 🚀 Como executar o projeto
+# 🚀 Como executar o projeto
 
 <br>
 
