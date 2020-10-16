@@ -1,0 +1,38 @@
+[1015/144357.771:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/145358.217:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/145358.510:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/145358.512:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/145358.513:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/145858.413:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/151010.067:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/151358.569:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/152858.620:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/154358.796:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/164658.099:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/165702.448:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/165703.045:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/165703.141:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/165703.141:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/170158.318:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/171659.226:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/173140.762:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/173200.545:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/174333.661:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/175334.980:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/175335.573:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/175335.574:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/175335.574:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/180131.512:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/181131.691:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/181131.738:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/181131.753:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/181131.753:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/181631.987:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/182054.426:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/183132.242:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/184033.245:ERROR:crash_report_database_win.cc(459)] unexpected header
+[1015/184035.953:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\savio\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\5acb4ef1-b216-4ebf-9833-bac32a951b31: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/015520.108:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/034354.496:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/112233.361:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/143633.818:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
