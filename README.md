@@ -152,8 +152,6 @@ Este projeto está sob a licença do MIT. Veja a [página de licença] (https://
 
 <a id="autor"></a>
 
-<br> 
-
 # 🦸 Autor
         
 <h4 align="center">
