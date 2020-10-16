@@ -1,13 +1,10 @@
-<h4 align="center"> 
-	🚧  Happy :memo: Em andamento ... 🚀 🚧
-</h4>
-
-<br> 
 
 <h1 align="center">
     <img alt="Happy" title="Happy" src="./assets/img_1.png" width="950px" />
 </h1>
 
+<p align="center"> 🚀 <strong>Happy</strong> 🚧
+ </p>
 <br>
 
 ## :memo: Índice
