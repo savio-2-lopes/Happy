@@ -158,11 +158,15 @@ Este projeto está sob a licença do MIT. Veja a [página de licença] (https://
         
 <br>
 
+<p align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
 
+</p>
+
 <h4 align="center">
- Made with 💜 by <a href="https://www.linkedin.com/in/savio-lopes" target="_blank">Savio Lopes</a>
+ Made with ❤️ by <a href="https://www.linkedin.com/in/savio-lopes" target="_blank">Savio Lopes</a>
 </h4>        
