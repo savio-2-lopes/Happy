@@ -1,4 +1,3 @@
-
 <h3 align="center">
     <img alt="Happy" title="Happy" src="./assets/logotipo.png" width="250px" />
 </h3>
