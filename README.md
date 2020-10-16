@@ -132,14 +132,12 @@ $ yarn start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[React Icons](https://react-icons.github.io/react-icons/)**
--   **[React-scripts](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts)**
--   **[React-dom](https://github.com/facebook/react/tree/master/packages/react-dom)**
--   **[React-Leaflet](https://react-leaflet.js.org/)**
--   **[Typescript](https://github.com/microsoft/TypeScript)**
 <br>
 
 <a id="licenca"></a>
