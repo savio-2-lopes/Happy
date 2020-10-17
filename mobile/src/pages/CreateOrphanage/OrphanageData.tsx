@@ -3,7 +3,7 @@ import { ScrollView, View, StyleSheet, Switch, Text, TextInput, TouchableOpacity
 import { Feather } from '@expo/vector-icons';
 import { RectButton } from 'react-native-gesture-handler';
 import { useNavigation, useRoute } from '@react-navigation/native';
-//import * as ImagePicker from 'expo-image-picker'
+import * as ImagePicker from 'expo-image-picker'
 
 import api from '../../service/api';
 
