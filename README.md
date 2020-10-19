@@ -54,7 +54,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Happy" title="#Happy" src="./assets/1.gif" width="700px">
+  <img alt="Happy" title="#Happy" src="./assets/1.gif" width="500px">
 </p>
 
 <br>
@@ -62,7 +62,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 ### Backend
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Happy" title="#Happy" src="./assets/backend.gif" width="700px">
+  <img alt="Happy" title="#Happy" src="./assets/backend.gif" width="500px">
 </p>
 
 <br>
@@ -70,12 +70,12 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/1.png" width="200px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/2.png" width="200px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/3.png" width="200px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/4.png" width="200px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/5.png" width="200px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/6.png" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/1.png" width="150px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/2.png" width="150px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/3.png" width="150px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/4.png" width="150px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/5.png" width="150px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/6.png" width="150px">
 </p>
 
 <br>
