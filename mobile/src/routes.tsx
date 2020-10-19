@@ -9,7 +9,6 @@ import OrphanageDetails from "./pages/OrphanageDetails";
 import SelectMapPosition from "./pages/CreateOrphanage/SelectMapPosition";
 import OrphanageData from "./pages/CreateOrphanage/OrphanageData";
 
-
 const { Navigator, Screen } = createStackNavigator();
 
 const Routes: React.FC = () => {
@@ -32,7 +31,7 @@ const Routes: React.FC = () => {
           component={SelectMapPosition}
           options={{
             headerShown: true,
-            header: () => <Header title="Selecione no mapa" />
+              header: () => <Header title="Selecione no mapa" />
           }}
         />
 

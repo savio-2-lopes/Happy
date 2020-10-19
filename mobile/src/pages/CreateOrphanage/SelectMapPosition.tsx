@@ -1,21 +1,22 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { View, StyleSheet, Dimensions, Text } from 'react-native';
+
 import { useNavigation } from '@react-navigation/native';
 import { RectButton } from 'react-native-gesture-handler';
 import MapView, { MapEvent, Marker } from 'react-native-maps';
 
 import mapMarkerImg from '../../assets/maker.png';
+import { useState } from 'react';
 
 export default function SelectMapPosition() {
   const navigation = useNavigation();
+  const [position, setPosition] = useState({ latitude: 0, longitude: 0})
 
-  const [position, setPosition] = useState({ latitude: 0, longitude: 0 })
-
-  const handleNextStep = () => {
-    navigation.navigate('OrphanageData', { position });
+  function handleNextStep() {
+    navigation.navigate('OrphanageData', {position});
   }
 
-  const handleSelectedMapPosition = (event: MapEvent) => {
+  function handleSelectMapPosition(event: MapEvent){
     setPosition(event.nativeEvent.coordinate);
   }
 
@@ -29,11 +30,12 @@ export default function SelectMapPosition() {
           longitudeDelta: 0.008,
         }}
         style={styles.mapStyle}
-        onPress={handleSelectedMapPosition}
+        onPress = {handleSelectMapPosition}
       >
+
         {position.latitude !== 0 && (
           <Marker 
-            icon={mapMarkerImg}
+           icon={mapMarkerImg}
             coordinate={{ latitude: position.latitude, longitude: position.longitude }}
           />
         )}
