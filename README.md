@@ -97,13 +97,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 <br>
 
 Este projeto é divido em três partes:
-- [Backend](#backend)
-- [Frontend](#web)
-- [Mobile](#mobile)
+- [Frontend](#w)
+- [Backend](#b)
+- [Mobile](#m)
 
 <br>
 
-<a id="web"></a>
+<a id="w"></a>
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
@@ -130,7 +130,7 @@ $ yarn start
 
 <br>
 
-<a id="backend"></a>
+<a id="b"></a>
 #### 🎲 Rodando o server (Backend)
 
 ```bash
@@ -158,7 +158,7 @@ $ yarn start
 ```
 <br>
 
-<a id="mobile"></a>
+<a id="m"></a>
 #### 📱 Rodando a aplicação mobile (Mobile)
 
 ```bash
