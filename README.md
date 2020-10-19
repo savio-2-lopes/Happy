@@ -51,6 +51,14 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <br>
 
+💡 Este projeto é divido em três partes:
+- [Frontend](#w)
+- [Backend](#b)
+- [Mobile](#m)
+
+<br>
+
+<a id="w"></a>
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -59,6 +67,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <br>
 
+<a id="b"></a>
 ### Backend
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -67,6 +76,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <br>
 
+<a id="m"></a>
 ### Mobile
 
 <p align="center">
