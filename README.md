@@ -80,12 +80,12 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/1.png" width="150px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/2.png" width="150px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/3.png" width="150px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/4.png" width="150px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/5.png" width="150px">
-  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/6.png" width="150px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/1.png" width="130px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/2.png" width="130px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/3.png" width="130px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/4.png" width="130px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/5.png" width="130px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/6.png" width="130px">
 </p>
 
 <br>
