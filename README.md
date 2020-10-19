@@ -124,7 +124,7 @@ $ cd backend
 $ npm install
 
 # Crie as tabelas do banco de dados
-$ yarn typeorm:migration run
+$ yarn typeorm migration:run
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
