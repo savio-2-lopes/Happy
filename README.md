@@ -54,7 +54,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Happy" title="#Happy" src="./assets/1.gif" width="500px">
+  <img alt="Happy" title="#Happy" src="./assets/1.gif" width="600px">
 </p>
 
 <br>
@@ -62,7 +62,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 ### Backend
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Happy" title="#Happy" src="./assets/backend.gif" width="500px">
+  <img alt="Happy" title="#Happy" src="./assets/backend.gif" width="600px">
 </p>
 
 <br>
@@ -156,7 +156,7 @@ $ yarn start
 <br>
 
 
-#### 🧭 Rodando a aplicação mobile (Mobile)
+#### 📱 Rodando a aplicação mobile (Mobile)
 
 ```bash
 
