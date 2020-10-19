@@ -80,20 +80,9 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <br>
 
-<br>
-
 <a id="executar"></a>
 
 # 🚀 Como executar o projeto
-
-Este projeto é divido em três partes:
-1. Backend 
-2. Frontend 
-3. Mobile 
-
-💡 Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
-
-<br>
 
 ### Pré-requisitos
 
@@ -102,6 +91,19 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 <br>
+
+💡 Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+
+<br>
+
+Este projeto é divido em três partes:
+- [Backend](#backend)
+- [Frontend](#web)
+- [Mobile](#mobile)
+
+<br>
+
+<a id="web"></a>
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
@@ -128,6 +130,7 @@ $ yarn start
 
 <br>
 
+<a id="backend"></a>
 #### 🎲 Rodando o server (Backend)
 
 ```bash
@@ -155,7 +158,7 @@ $ yarn start
 ```
 <br>
 
-
+<a id="mobile"></a>
 #### 📱 Rodando a aplicação mobile (Mobile)
 
 ```bash
