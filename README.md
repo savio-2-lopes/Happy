@@ -51,13 +51,34 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <br>
 
+### Web
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Happy" title="#Happy" src="./assets/1.gif" width="700px">
 </p>
 
+<br>
+
+### Backend
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Happy" title="#Happy" src="./assets/backend.gif" width="700px">
 </p>
+
+<br>
+
+### Mobile
+
+<p align="center">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/1.png" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/2.png" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/3.png" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/4.png" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/5.png" width="200px">
+  <img alt="NextLevelWeek3" title="#NextLevelWeek3" src="./assets/6.png" width="200px">
+</p>
+
+<br>
 
 <br>
 
@@ -134,6 +155,31 @@ $ yarn start
 ```
 <br>
 
+
+#### 🧭 Rodando a aplicação mobile (Mobile)
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/savio-2-lopes/Happy.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Happy
+
+# Vá para a pasta da aplicação Front End
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# A aplicação será aberta no navegador
+
+```
+
+<br>
 
 <a id="tecnologias"></a>
 
