@@ -23,7 +23,7 @@
 
 <br> 
 
-# :pushpin: Índice
+## :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Layout](#layout)
@@ -36,7 +36,7 @@
 
 <a id="sobre-o-projeto"></a>
 
-# 💻 Sobre o projeto
+## 💻 Sobre o projeto
 
 🚀 **Happy** - é uma plataforma online para encontrar e facilitar visitas em orfanatos.
 
@@ -46,7 +46,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <a id="layout"></a>
 
-# 🎨 Layout
+## 🎨 Layout
 
 <br>
 
@@ -91,7 +91,7 @@ Projeto desenvolvido durante a **3º edição da NLW - Next Level Week** ofereci
 
 <a id="executar"></a>
 
-# 🚀 Como executar o projeto
+## 🚀 Como executar o projeto
 
 ### Pré-requisitos
 
@@ -209,7 +209,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <a id="licenca"></a>
 
-# :memo: Licença
+## :memo: Licença
 
 Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
 
@@ -217,12 +217,11 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 
 <a id="autor"></a>
 
-# 🦸 Autor
+## 🦸 Autor
         
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
-
 
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
